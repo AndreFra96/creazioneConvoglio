@@ -1,0 +1,6 @@
+L Calimero 100 1000
+V Passeggeri 200 posti 30 bagni 1 finestrini 25 posti 20 bagni 1
+V Bisarca 500 auto 20 furgoni 7 auto 5
+L Tigrotto 200 5000
+L Cammello 150 3000
+V Ristorante 150 tavoli 20 cucina 1 bagni 1
